@@ -6,6 +6,7 @@ class Book
 
  # attr_reader :title
   def title
+    @title
   end
 
 end
