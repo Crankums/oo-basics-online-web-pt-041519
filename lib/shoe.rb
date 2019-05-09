@@ -6,6 +6,7 @@ class Shoe
 
   def cobble
     @conditon = "new"
+    puts "Your shoe is as good as new!"
   end
 
 end
